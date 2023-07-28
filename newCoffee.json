@@ -1,0 +1,123 @@
+[
+  {
+    "description": "The Robotic Coding Kit is an exciting educational toy designed to introduce children to the world of computer science and programming. ",
+    "photoURL": "https://images.unsplash.com/photo-1546776230-bb86256870ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHRveXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "price": 19.99,
+    "quantity": 10,
+    "ratings": 4.5,
+    "sellerName": "Aban",
+    "subCategory": "CSE",
+    "toyName": "Super Robot Toy",
+    "sellerEmail": "abc@gmail.com"
+  },
+  {
+    "description": "The Electronic Circuitry Set is a fantastic toy for young electrical engineers in the making. It allows children to explore the fundamentals of circuitry and electronics in a safe and engaging way.",
+    "photoURL": "https://img.freepik.com/premium-photo/robot-playing-with-toy-rocket_782419-9853.jpg?w=740",
+    "price": 29.99,
+    "quantity": 5,
+    "ratings": 4.2,
+    "sellerName": "Jafran",
+    "subCategory": "EEE",
+    "toyName": "Electronic Circuitry Set",
+    "sellerEmail": "qww@gmail.com"
+  },
+  {
+    "description": "The Architectural Building Blocks set is perfect for aspiring civil engineers and architects. With these blocks, children can design and construct various structures, from simple houses to complex bridges and skyscrapers. ",
+    "photoURL": "https://img.freepik.com/free-vector/engineer-building-being-construction_1308-70722.jpg?size=626&ext=jpg&ga=GA1.1.426642668.1684369934&semt=ais",
+    "price": 9.99,
+    "quantity": 20,
+    "ratings": 3.8,
+    "sellerName": "Toto",
+    "subCategory": "CIVIL",
+    "toyName": "Architectural Building Blocks",
+    "sellerEmail": "jhg@gmail.com"
+  },
+  {
+    "description": "The Mechanical Engineering Kit is an interactive toy that introduces kids to the principles of mechanical engineering. With this kit, children can assemble and operate a range of mechanical systems, such as gears, pulleys, and levers. ",
+    "photoURL": "https://img.freepik.com/free-photo/home-made-robot-desk_23-2148863420.jpg?size=626&ext=jpg&ga=GA1.1.426642668.1684369934&semt=ais",
+    "price": 14.99,
+    "quantity": 15,
+    "ratings": 4.7,
+    "sellerName": "Aban",
+    "subCategory": "MECHANICAL",
+    "toyName": "Mechanical Engineering Kit",
+    "sellerEmail": "abc@gmail.com"
+  },
+  {
+    "description": "The RoboGenius STEM Coding Kit is an excellent tool to introduce children to the exciting field of robotics and coding. With this kit, kids can build and program their own robots using a variety of electronic components and programming blocks. ",
+    "photoURL": "https://images.unsplash.com/photo-1546776310-eef45dd6d63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHRveXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "price": 39.99,
+    "quantity": 8,
+    "ratings": 4.9,
+    "sellerName": "Jafran",
+    "subCategory": "CSE",
+    "toyName": "RoboGenius STEM Coding Kit",
+    "sellerEmail": "qww@gmail.com"
+  },
+  {
+    "description": "The PowerBuilder Electronic Lab is an exciting introduction to the world of electrical engineering. With this kit, children can build and experiment with various electronic circuits, learning about different components and their functions. ",
+    "photoURL": "https://img.freepik.com/free-vector/boy-with-battery-trolley_1308-87527.jpg?size=626&ext=jpg&ga=GA1.1.426642668.1684369934&semt=ais",
+    "price": 24.99,
+    "quantity": 12,
+    "ratings": 4.4,
+    "sellerName": "Toto",
+    "subCategory": "EEE",
+    "toyName": "PowerBuilder Electronic Lab",
+    "sellerEmail": "jhg@gmail.com"
+  },
+  {
+    "description": "The CivilCraft Building and Design Kit is a comprehensive set that enables children to explore the exciting world of civil engineering. With this kit, kids can construct various structures such as bridges, dams, and skyscrapers using specialized components. ",
+    "photoURL": "https://img.freepik.com/free-photo/child-making-robot-close-up_23-2148863376.jpg?size=626&ext=jpg&ga=GA1.1.426642668.1684369934&semt=ais",
+    "price": 29.99,
+    "quantity": 7,
+    "ratings": 4.6,
+    "sellerName": "Aban",
+    "subCategory": "CIVIL",
+    "toyName": "CivilCraft Building and Design Kit",
+    "sellerEmail": "abc@gmail.com"
+  },
+  {
+    "description": "The MechanoTech Engineering Set is a versatile construction kit that allows children to create a wide range of mechanical structures and machines. With this kit, kids can build everything from simple pulley systems to complex mechanical models. ",
+    "photoURL": "https://img.freepik.com/free-vector/children-fixing-robot-together_1308-77929.jpg?size=626&ext=jpg&ga=GA1.2.426642668.1684369934&semt=ais",
+    "price": 19.99,
+    "quantity": 15,
+    "ratings": 4.3,
+    "sellerName": "Jafran",
+    "subCategory": "MECHANICAL",
+    "toyName": "MechanoTech Engineering Set",
+    "sellerEmail": "qww@gmail.com"
+  },
+  {
+    "description": "The CodeMaster Robotics Kit is an exciting platform for young learners to dive into the world of robotics and coding. With this kit, children can build and program their own robots using sensors, motors, and programmable microcontrollers. ",
+    "photoURL": "https://img.freepik.com/free-vector/children-fixing-robot-together_1308-77993.jpg?size=626&ext=jpg&ga=GA1.1.426642668.1684369934&semt=ais",
+    "price": 34.99,
+    "quantity": 6,
+    "ratings": 4.8,
+    "sellerName": "Toto",
+    "subCategory": "CSE",
+    "toyName": "CodeMaster Robotics Kit",
+    "sellerEmail": "jhg@gmail.com"
+  },
+  {
+    "description": "The Sparktronics Circuit Master Set is an excellent tool for young aspiring electrical engineers. With this kit, children can explore the world of circuits and electronics by building and experimenting with various circuit configurations.",
+    "photoURL": "https://img.freepik.com/free-photo/home-made-robot-desk_23-2148863420.jpg?size=626&ext=jpg&ga=GA1.1.426642668.1684369934&semt=ais",
+    "price": 27.99,
+    "quantity": 9,
+    "ratings": 4.2,
+    "sellerName": "Aban",
+    "subCategory": "EEE",
+    "toyName": "Sparktronics Circuit Master Set",
+    "sellerEmail": "abc@gmail.com"
+  },
+  {
+    "description": "The Skyscraper Express Construction Kit is a thrilling toy for young architects and civil engineers. With this kit, children can design and build their own impressive skyscrapers, complete with detailed facades, structural elements, and interior spaces. ",
+    "photoURL": "https://img.freepik.com/free-psd/3d-illustration-transportation-vehicle-icon_23-2149975039.jpg?size=626&ext=jpg&ga=GA1.1.426642668.1684369934&semt=ais",
+    "price": 14.99,
+    "quantity": 18,
+    "ratings": 4.5,
+    "sellerName": "Jafran",
+    "subCategory": "CIVIL",
+    "toyName": "Skyscraper Express Construction Kit",
+    "sellerEmail": "qww@gmail.com"
+  }
+]

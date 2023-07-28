@@ -1,0 +1,195 @@
+[
+    {
+      "chef_id": 1,
+      "chef_name": "Julia Child",
+      "chef_picture":"https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confchef_ident-man-freelancer_273609-16320.jpg?size=626&ext=jpg&ga=GA1.1.523431862.1682995940&semt=sph",
+      "bio": "Julia Child is a renowned pastry chef with over 20 years of experience in the industry. He has worked in some of the top restaurants in the world and has won numerous awards for her innovative desserts. Julia Child's passion for baking is evchef_ident in everything she creates, and she loves to share her knowledge with others.",
+      "years_of_experience": 30,
+      "num_recipes": 524,
+      "likes": 1000,
+      "recipe_items":[{   "recipe_chef_id":1,
+      "name": "Pasta with Meat Sauce",
+      "ingredients": "'pasta', 'ground beef', 'tomato sauce', 'garlic', 'onion'",
+      "method": "1. Cook pasta according to package instructions. 2. Brown ground beef with garlic and onion. 3. Add tomato sauce and simmer for 10 minutes. 4. Serve meat sauce over pasta.",
+      "rating": "4.5"
+      
+    },
+    {
+      "recipe_chef_id":2,
+      "name": "Chicken Fajitas",
+      "ingredients": "'chicken', 'bell peppers', 'onion', 'taco seasoning', 'tortillas'",
+      "method": "1. Cook chicken in a skillet over medium heat. 2. Add sliced bell peppers and onion to the skillet. 3. Sprinkle taco seasoning over the mixture and stir. 4. Serve with warm tortillas.",
+      "rating": "4.0"
+      
+    },
+    {
+      "recipe_chef_id":3,
+      "name": "Vegetable Stir-Fry",
+      "ingredients": "'broccoli', 'carrots', 'snow peas', 'soy sauce', 'rice'",
+      "method": "1. Cook rice according to package instructions. 2. Cut vegetables into bite-sized pieces. 3. Heat oil in a wok or skillet. 4. Add vegetables and stir-fry for 5 minutes. 5. Add soy sauce and stir. 6. Serve over rice.",
+      "rating": "3.5"
+      
+    }]
+    },
+    {
+      "chef_id": 2,
+      "chef_name": "Anthony Bourdain",
+      "chef_picture":"https://img.freepik.com/free-photo/cheerful-smiling-guy-introduce-banner-pointing-hand-left_176420-18863.jpg?size=626&ext=jpg&ga=GA1.1.523431862.1682995940&semt=sph",
+      "bio": "Anthony Bourdain is a classically trained French chef with a passion for farm-to-table cuisine. He believes in using the freshest ingredients possible and letting their natural flavors shine through. Bob has worked in some of the top restaurants in Paris and New York, and he brings his culinary expertise to everything he cooks.",
+      "years_of_experience": 28,
+      "num_recipes": 78,
+      "likes": 5000,
+      "recipe_items":[{   "recipe_chef_id":1,
+      "name": "Pasta with Meat Sauce",
+      "ingredients": "'pasta', 'ground beef', 'tomato sauce', 'garlic', 'onion'",
+      "method": "1. Cook pasta according to package instructions. 2. Brown ground beef with garlic and onion. 3. Add tomato sauce and simmer for 10 minutes. 4. Serve meat sauce over pasta.",
+      "rating": "4.5"
+      
+    },
+    {
+      "recipe_chef_id":2,
+      "name": "Chicken Fajitas",
+      "ingredients": "'chicken', 'bell peppers', 'onion', 'taco seasoning', 'tortillas'",
+      "method": "1. Cook chicken in a skillet over medium heat. 2. Add sliced bell peppers and onion to the skillet. 3. Sprinkle taco seasoning over the mixture and stir. 4. Serve with warm tortillas.",
+      "rating": "4.0"
+      
+    },
+    {
+      "recipe_chef_id":3,
+      "name": "Vegetable Stir-Fry",
+      "ingredients": "'broccoli', 'carrots', 'snow peas', 'soy sauce', 'rice'",
+      "method": "1. Cook rice according to package instructions. 2. Cut vegetables into bite-sized pieces. 3. Heat oil in a wok or skillet. 4. Add vegetables and stir-fry for 5 minutes. 5. Add soy sauce and stir. 6. Serve over rice.",
+      "rating": "3.5"
+      
+    }]
+    },
+    {
+      "chef_id": 3,
+      "chef_name": "Yotam Ottolenghi",
+      "chef_picture":"https://img.freepik.com/free-photo/no-problem-concept-bearded-man-makes-okay-gesture-has-everything-control-all-fine-gesture-wears-spectacles-jumper-poses-against-pink-wall-says-i-got-this-guarantees-something_273609-42817.jpg?size=626&ext=jpg&ga=GA1.2.523431862.1682995940&semt=sph",
+      "bio": "Yotam Ottolenghi is a self-taught chef who specializes in vegan and gluten-free cuisine. She believes that healthy food can be both delicious and beautiful, and she loves to experiment with new ingredients and flavors. Yotam Ottolenghi's dishes are always colorful and full of flavor, and she is passionate about sharing her recipes with others.",
+      
+      "years_of_experience": 20,
+      "num_recipes": 92,
+      "likes": 8000,
+      "recipe_items":[{   "recipe_chef_id":1,
+      "name": "Pasta with Meat Sauce",
+      "ingredients": "'pasta', 'ground beef', 'tomato sauce', 'garlic', 'onion'",
+      "method": "1. Cook pasta according to package instructions. 2. Brown ground beef with garlic and onion. 3. Add tomato sauce and simmer for 10 minutes. 4. Serve meat sauce over pasta.",
+      "rating": "4.5"
+      
+    },
+    {
+      "recipe_chef_id":2,
+      "name": "Chicken Fajitas",
+      "ingredients": "'chicken', 'bell peppers', 'onion', 'taco seasoning', 'tortillas'",
+      "method": "1. Cook chicken in a skillet over medium heat. 2. Add sliced bell peppers and onion to the skillet. 3. Sprinkle taco seasoning over the mixture and stir. 4. Serve with warm tortillas.",
+      "rating": "4.0"
+      
+    },
+    {
+      "recipe_chef_id":3,
+      "name": "Vegetable Stir-Fry",
+      "ingredients": "'broccoli', 'carrots', 'snow peas', 'soy sauce', 'rice'",
+      "method": "1. Cook rice according to package instructions. 2. Cut vegetables into bite-sized pieces. 3. Heat oil in a wok or skillet. 4. Add vegetables and stir-fry for 5 minutes. 5. Add soy sauce and stir. 6. Serve over rice.",
+      "rating": "3.5"
+      
+    }]
+    },
+    {
+      "chef_id": 4,
+      "chef_name": "Alice Waters",
+      "chef_picture":"https://img.freepik.com/free-photo/portrait-handsome-young-man-with-crossed-arms_176420-15569.jpg?size=626&ext=jpg&ga=GA1.1.523431862.1682995940&semt=sph",
+      "bio": "Alice Waters is a self-taught chef who specializes in vegan and gluten-free cuisine. She believes that healthy food can be both delicious and beautiful, and she loves to experiment with new ingredients and flavors. Alice Waters's dishes are always colorful and full of flavor, and she is passionate about sharing her recipes with others.",
+      "years_of_experience": 40,
+      "num_recipes": 37,
+      "likes": 3000,
+      "recipe_items":[{   "recipe_chef_id":1,
+      "name": "Pasta with Meat Sauce",
+      "ingredients": "'pasta', 'ground beef', 'tomato sauce', 'garlic', 'onion'",
+      "method": "1. Cook pasta according to package instructions. 2. Brown ground beef with garlic and onion. 3. Add tomato sauce and simmer for 10 minutes. 4. Serve meat sauce over pasta.",
+      "rating": "4.5"
+      
+    },
+    {
+      "recipe_chef_id":2,
+      "name": "Chicken Fajitas",
+      "ingredients": "'chicken', 'bell peppers', 'onion', 'taco seasoning', 'tortillas'",
+      "method": "1. Cook chicken in a skillet over medium heat. 2. Add sliced bell peppers and onion to the skillet. 3. Sprinkle taco seasoning over the mixture and stir. 4. Serve with warm tortillas.",
+      "rating": "4.0"
+      
+    },
+    {
+      "recipe_chef_id":3,
+      "name": "Vegetable Stir-Fry",
+      "ingredients": "'broccoli', 'carrots', 'snow peas', 'soy sauce', 'rice'",
+      "method": "1. Cook rice according to package instructions. 2. Cut vegetables into bite-sized pieces. 3. Heat oil in a wok or skillet. 4. Add vegetables and stir-fry for 5 minutes. 5. Add soy sauce and stir. 6. Serve over rice.",
+      "rating": "3.5"
+      
+    }]
+    },
+    {
+      "chef_id": 5,
+      "chef_name": "Massimo Bottura",
+      "chef_picture":"https://img.freepik.com/free-photo/man-isolated-showing-emotions-end-gestures_1303-30095.jpg?size=626&ext=jpg&ga=GA1.1.523431862.1682995940&semt=sph",
+      "bio": "Massimo Bottura is a self-taught chef who specializes in vegan and gluten-free cuisine. She believes that healthy food can be both delicious and beautiful, and she loves to experiment with new ingredients and flavors. Massimo Bottura's dishes are always colorful and full of flavor, and she is passionate about sharing her recipes with others.",
+      "years_of_experience": 30,
+      "num_recipes": 63,
+      "likes": 1200,
+      "recipe_items":[{   "recipe_chef_id":1,
+      "name": "Pasta with Meat Sauce",
+      "ingredients": "'pasta', 'ground beef', 'tomato sauce', 'garlic', 'onion'",
+      "method": "1. Cook pasta according to package instructions. 2. Brown ground beef with garlic and onion. 3. Add tomato sauce and simmer for 10 minutes. 4. Serve meat sauce over pasta.",
+      "rating": "4.5"
+      
+    },
+    {
+      "recipe_chef_id":2,
+      "name": "Chicken Fajitas",
+      "ingredients": "'chicken', 'bell peppers', 'onion', 'taco seasoning', 'tortillas'",
+      "method": "1. Cook chicken in a skillet over medium heat. 2. Add sliced bell peppers and onion to the skillet. 3. Sprinkle taco seasoning over the mixture and stir. 4. Serve with warm tortillas.",
+      "rating": "4.0"
+      
+    },
+    {
+      "recipe_chef_id":3,
+      "name": "Vegetable Stir-Fry",
+      "ingredients": "'broccoli', 'carrots', 'snow peas', 'soy sauce', 'rice'",
+      "method": "1. Cook rice according to package instructions. 2. Cut vegetables into bite-sized pieces. 3. Heat oil in a wok or skillet. 4. Add vegetables and stir-fry for 5 minutes. 5. Add soy sauce and stir. 6. Serve over rice.",
+      "rating": "3.5"
+      
+    }]
+    },
+    {
+      "chef_id": 6,
+      "chef_name": "Christina Tosi",
+      "chef_picture":"https://img.freepik.com/free-photo/portrait-beautiful-young-woman-standing-grey-wall_231208-10760.jpg?size=626&ext=jpg&ga=GA1.1.523431862.1682995940&semt=sph",
+      "bio": "Christina Tosi is a self-taught chef who specializes in vegan and gluten-free cuisine. She believes that healthy food can be both delicious and beautiful, and she loves to experiment with new ingredients and flavors. Carla's dishes are always colorful and full of flavor, and she is passionate about sharing her recipes with others.",
+      "years_of_experience": 15,
+      "num_recipes": 57,
+      "likes": 6000,
+      "recipe_items":[{   "recipe_chef_id":1,
+      "name": "Pasta with Meat Sauce",
+      "ingredients": "'pasta', 'ground beef', 'tomato sauce', 'garlic', 'onion'",
+      "method": "1. Cook pasta according to package instructions. 2. Brown ground beef with garlic and onion. 3. Add tomato sauce and simmer for 10 minutes. 4. Serve meat sauce over pasta.",
+      "rating": "4.5"
+      
+    },
+    {
+      "recipe_chef_id":2,
+      "name": "Chicken Fajitas",
+      "ingredients": "'chicken', 'bell peppers', 'onion', 'taco seasoning', 'tortillas'",
+      "method": "1. Cook chicken in a skillet over medium heat. 2. Add sliced bell peppers and onion to the skillet. 3. Sprinkle taco seasoning over the mixture and stir. 4. Serve with warm tortillas.",
+      "rating": "4.0"
+      
+    },
+    {
+      "recipe_chef_id":3,
+      "name": "Vegetable Stir-Fry",
+      "ingredients": "'broccoli', 'carrots', 'snow peas', 'soy sauce', 'rice'",
+      "method": "1. Cook rice according to package instructions. 2. Cut vegetables into bite-sized pieces. 3. Heat oil in a wok or skillet. 4. Add vegetables and stir-fry for 5 minutes. 5. Add soy sauce and stir. 6. Serve over rice.",
+      "rating": "3.5"
+      
+    }]
+    }
+    ]

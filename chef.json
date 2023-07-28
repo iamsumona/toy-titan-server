@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chef_name": "Julia Child",
+    "chef_picture":"https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?size=626&ext=jpg&ga=GA1.1.523431862.1682995940&semt=sph",
+    "years_of_experience": 30,
+    "num_recipes": 524,
+    "likes": 1000,
+    "recipe_details": "Julia Child was an American chef, author, and television personality. She is best known for bringing French cuisine to American audiences through her popular television show 'The French Chef'. Some of her most famous recipes include Boeuf Bourguignon, Coq au Vin, and Quiche Lorraine."
+  },
+  {
+    "id": 2,
+    "chef_name": "Anthony Bourdain",
+    "chef_picture":"https://img.freepik.com/free-photo/cheerful-smiling-guy-introduce-banner-pointing-hand-left_176420-18863.jpg?size=626&ext=jpg&ga=GA1.1.523431862.1682995940&semt=sph",
+    "years_of_experience": 28,
+    "num_recipes": 78,
+    "likes": 5000,
+    "recipe_details": "Anthony Bourdain was an American chef, author, and television personality. He was known for his adventurous palate and his willingness to explore global cuisine. Some of his most famous recipes include Bun Cha, Peking Duck, and Beef Pho."
+  },
+  {
+    "id": 3,
+    "chef_name": "Yotam Ottolenghi",
+    "chef_picture":"https://img.freepik.com/free-photo/no-problem-concept-bearded-man-makes-okay-gesture-has-everything-control-all-fine-gesture-wears-spectacles-jumper-poses-against-pink-wall-says-i-got-this-guarantees-something_273609-42817.jpg?size=626&ext=jpg&ga=GA1.2.523431862.1682995940&semt=sph",
+    "years_of_experience": 20,
+    "num_recipes": 92,
+    "likes": 8000,
+    "recipe_details": "Yotam Ottolenghi is an Israeli-British chef, author, and restaurateur. He is known for his vibrant and flavorful vegetarian and Middle Eastern-inspired dishes. Some of his most famous recipes include Shakshuka, Za'atar Roast Chicken, and Roasted Butternut Squash with Tahini and Za'atar."
+  },
+  {
+    "id": 4,
+    "chef_name": "Alice Waters",
+    "chef_picture":"https://img.freepik.com/free-photo/portrait-handsome-young-man-with-crossed-arms_176420-15569.jpg?size=626&ext=jpg&ga=GA1.1.523431862.1682995940&semt=sph",
+    "years_of_experience": 40,
+    "num_recipes": 37,
+    "likes": 3000,
+    "recipe_details": "Alice Waters is an American chef, author, and activist. She is known for her commitment to sustainable agriculture and her advocacy for local, seasonal ingredients. Some of her most famous recipes include Ratatouille, Panzanella, and Peach Cobbler."
+  },
+  {
+    "id": 5,
+    "chef_name": "Massimo Bottura",
+    "chef_picture":"https://img.freepik.com/free-photo/man-isolated-showing-emotions-end-gestures_1303-30095.jpg?size=626&ext=jpg&ga=GA1.1.523431862.1682995940&semt=sph",
+    "years_of_experience": 30,
+    "num_recipes": 63,
+    "likes": 1200,
+    "recipe_details": "Massimo Bottura is an Italian chef and restaurateur. He is known for his innovative and avant-garde approach to Italian cuisine. Some of his most famous recipes include Tortellini in Parmigiano Reggiano Cream, Five Ages of Parmigiano Reggiano, and Crunchy Part of the Lasagna."
+  },
+  {
+    "id": 6,
+    "chef_name": "Christina Tosi",
+    "chef_picture":"https://img.freepik.com/free-photo/portrait-beautiful-young-woman-standing-grey-wall_231208-10760.jpg?size=626&ext=jpg&ga=GA1.1.523431862.1682995940&semt=sph",
+    "years_of_experience": 15,
+    "num_recipes": 57,
+    "likes": 6000,
+    "recipe_details": "Christina Tosi is an American chef, author, and founder of the Milk Bar bakery. She is known for her playful and creative approach to desserts, incorporating unexpected ingredients and techniques. Some of her most famous recipes include Cereal Milk Ice Cream, Crack Pie, and Compost Cookies."
+  }
+  ]
